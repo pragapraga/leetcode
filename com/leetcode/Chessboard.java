@@ -1,3 +1,4 @@
+package com.leetcode;
 /*
 @input - String
 @output - boolean
